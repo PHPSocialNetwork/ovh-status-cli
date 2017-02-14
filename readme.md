@@ -15,6 +15,10 @@ PHP of course !! It has a dependency to PhpFastCache to cache the matching rules
 This project makes use of [composer](https://getcomposer.org/) to manage dependencies. Extract the archive then proceed to this command:
 `composer install`
 
+### How to define my own rules ?
+
+Check the file `var/config/rules.ini` to set and customize your own rules, it's already containing some samples
+
 ### What are the printed result ?
 ##### If everything is fine and no rule is matching:
 `[OK] No rules were matching`
