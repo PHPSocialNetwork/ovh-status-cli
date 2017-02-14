@@ -1,0 +1,15 @@
+{
+  "name": "phpsocialnetwork/ovh-status-cli",
+  "description": "Some desc",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Georges.L",
+      "email": "contact@geolim4.com"
+    }
+  ],
+  "require": {
+    "phpfastcache/phpfastcache": "~6.0"
+  }
+}
