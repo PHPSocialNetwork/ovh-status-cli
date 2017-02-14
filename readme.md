@@ -20,11 +20,11 @@ This project makes use of [composer](https://getcomposer.org/) to manage depende
 `[OK] No rules were matching`
 
 ##### If one or more rule is matching ?
-`
+```
 [PLANNED] Matching rule \*\*\*CLOUD*** for OVH task #23163 at http://travaux.ovh.net/?do=details&id=23163 with summary "Public cloud planned maintenance"
 
 [KO] At least 1 rule(s) were matching
-`
+```
 
 ### Are you accepting pull request ?
 As long they are relevant, yes we do, may this utility will help some people, so feel free to contribute :)
